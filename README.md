@@ -10,4 +10,4 @@ I hope to learn about creating effective anecdotes and visualizations that are m
 # Portfolio
 Here's where all of my data visualizations will go!
 <br>
-[Data Visualization](/dataviz2.md)
+[Data Visualization](/datavis2.md)
