@@ -12,8 +12,7 @@ First experience working with Flourish - exploratory data analysis of General Go
 ## My Own Flourish Visualization
 Creating my own visualization using what I have learned thus far from lecture and readings. 
 
-<div class="flourish-embed flourish-scatter" data-src="visualisation/4255400"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
+<div class="flourish-embed flourish-scatter" data-src="visualisation/4255400" data-width="50%" data-height="75%"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
 ## Visualization Compare/Contrast
 
 Each visualization essentially represents the same dataset. However, they each portray something different through the type of graph, subset of data, and colors utilized. 
