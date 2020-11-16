@@ -11,4 +11,5 @@ I hope to learn about creating effective anecdotes and visualizations that are m
 Here's where all of my data visualizations will go!
 <br>
 [Data Visualization](/datavis2.md)
+<br>
 [Critique By Design](/Critique By Design.md)
