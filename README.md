@@ -8,8 +8,10 @@ Hi! I am Tabassum (she/her)! I'm in the Masters of Information System Technology
 I hope to learn about creating effective anecdotes and visualizations that are memorable and really add value to presentations. Even through just my capstone project, I've become keenly aware of the importance of appropriately sharing data to engage the audience. I hope that this course helps me throughout the remainder of my project, and better yet, in the rest of my professional career. 
 
 # Portfolio
-Here's where all of my data visualizations will go!
+Here's where all of my data visualizations and projects will go!
 <br>
 [Data Visualization](/datavis2.md)
 <br>
 [Critique By Design](/Critique By Design.md)
+<br>
+[Final Project Archive](/final_project_TabassumKazi.md)
