@@ -11,8 +11,10 @@ Inspired by the content underscored in our textbook, Good Charts, as well as rec
 <br>
 **Call To Action:** Illustrate that there has been a direct correlation with increase in adoption and decrease in euthanisation. Futher illustrate that animals in certain organizations' shelters are euthanized for various reasons and provide methods of contributing to these animals' adoptability and supporting these organizations. 
 
- ## Sketches
+## Sketches
+
 I decided to sketch a rough flow of my entire presentation. I will begin with stark statistics about shelters and adoption. In my final presentation, I hope to also provide general information about pets in American households. I will then display the direct correlation with adoption and decrease in euthanasia to appeal to the emotions of the audience. Diving into more detail, I want to highlight that agencies, over time, have taken great control over many of the sheltering issues that have existed in the past. Thus, euthanasia reasons stem from something greater and other than overpopulation. To further prevent euthanasia we must donate to these agencies as well as campaigns that aid in resolving these other issues. 
+<br>
 <br>
 <img src="./images/IMG_6155.jpg" width = "500" height="587">
 
