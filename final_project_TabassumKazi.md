@@ -13,7 +13,8 @@ Inspired by the content underscored in our textbook, Good Charts, as well as rec
 
  ## Sketches
 I decided to sketch a rough flow of my entire presentation. I will begin with stark statistics about shelters and adoption. In my final presentation, I hope to also provide general information about pets in American households. I will then display the direct correlation with adoption and decrease in euthanasia to appeal to the emotions of the audience. Diving into more detail, I want to highlight that agencies, over time, have taken great control over many of the sheltering issues that have existed in the past. Thus, euthanasia reasons stem from something greater and other than overpopulation. To further prevent euthanasia we must donate to these agencies as well as campaigns that aid in resolving these other issues. 
-![](/images/IMG_6155.jpg = 500x378)
+<br>
+<img src="./images/IMG_6155.jpg" width = "500" height="587">
 
 ## The Data
 The [Shelter Animal Outcomes data from the Austin Animal Center](https://www.kaggle.com/c/shelter-animal-outcomes/data) has attributes such as animal breed, intake reason, outcome, and outcome reason from 2013 - 2016; these attributes are valuable in drawing insights on shelter animal trends over time.
