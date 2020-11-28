@@ -49,14 +49,15 @@ Questions:
 2. Were you able to understand the purpose of the visualizations? 
 3. Was anything confusing? Would you change any of the dialogue or visualizations? 
 Thank you again for taking part in this!
-<br>
+
 **Findings:**
 | Questions | Feedback |
 |-----------|----------|
-|What was your take away from this presentation?| Andwersogkdsokgpdokgspdkgpsdkfgpodkgpskdpgkdpgkdpokgpsdkgpodskgpskgposkgpfdkpgdskgpskpgdkodskfspdfkpsdkfpsakfspofkspofkpdok oisfjsiofjsiofjdsiofjsoijfiosafjoasifjoasijfoipasdjfoi jspoijdsopifjsoipfjasoipfjaosipfjasiodfjiopasdjfasoifjosipafjaopifjaoisjfopiasjfopsjfoi|
+|What was your take away from this presentation?| |
 |Were you able to understand the purpose of the visualizations? | test |
 |Was anything confusing? Would you change any of the dialogue or visualizations? | test |
-<br>
+
 **Future Changes:**
+<br>
 ### Return To Home
 [MAIN](/README.md)
