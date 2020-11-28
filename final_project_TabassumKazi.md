@@ -30,5 +30,33 @@ I will use Flourish because it has proved to be my favorite among the platforms 
 
 I will used Shorthand to compile my story together. The interactivity and transitions present on Shorthand will surely garner attention as I present my findings. Using features such as "Scrollmation," "Reveal," and "Custom HTML," I will be able to highlight certain aspects of my story and visualizations while maintaining engagement of my audience. Creating very different but interactive sections that come together will aid in the flow of my story and allow me to conclude with my call to action. 
 
+# Part II 
+## Wireframe/Storyboarding Using Shorthand 
+
+## User Research/Interviews 
+**Target Audience:**
+This cause can appeal to various groups - as indicated by those I targeted to interview. I hope to appeal to those considering to adopt, those who maybe interested in just aiding the cause, and inspiring those who were unaware of the issue and did not care for animals. 
+<br>
+**Who To Interview:**
+I think the best interview subjects need to be random as any good representive survey should. Thus, I hope to have 3 individuals with varying perspectives on domestic animals. I will interview:
+A. Someone who already has a pet from a shelter to guage whether my persuasion and visuals conveys what she is similarly passionate about - or whether I am lacking in something important to the cause. 
+B. Someone who is ambivalent towards pets and animals in general. The cause may be saddening, but they wouldn't necessarily raise an animal. Thus, I can guage whether they are motivated to donate or learn more about the cause.
+C. Someone completely uninterested in raising an animal; dislikes pets. 
+**Interview Script:**
+Hi, thank you for agreeing to take part in this interview. I hope to gather general feedback to improve the scope of my project. I want you to be critical and honest, there are no wrong answers! 
+Questions:
+1. What was your take away from this presentation?
+2. Were you able to understand the purpose of the visualizations? 
+3. Was anything confusing? Would you change any of the dialogue or visualizations? 
+Thank you again for taking part in this!
+<br>
+**Findings:**
+| Questions | Feedback |
+|-----------|----------|
+|What was your take away from this presentation?| Andwersogkdsokgpdokgspdkgpsdkfgpodkgpskdpgkdpgkdpokgpsdkgpodskgpskgposkgpfdkpgdskgpskpgdkodskfspdfkpsdkfpsakfspofkspofkpdok oisfjsiofjsiofjdsiofjsoijfiosafjoasifjoasijfoipasdjfoi jspoijdsopifjsoipfjasoipfjaosipfjasiodfjiopasdjfasoifjosipafjaopifjaoisjfopiasjfopsjfoi|
+|Were you able to understand the purpose of the visualizations? | test |
+|Was anything confusing? Would you change any of the dialogue or visualizations? | test |
+<br>
+**Future Changes:**
 ### Return To Home
 [MAIN](/README.md)
