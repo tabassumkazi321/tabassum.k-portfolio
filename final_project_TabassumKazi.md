@@ -64,6 +64,12 @@ Thank you again for taking part in this!
 | Were you able to understand the purposes of the visualizations? |  |
 | Was anything confusing? Would you change any of the dialogue or visualizations? |  |
 
+## Amost always imports
+
+|  R |  Python |    Matlab |
+| --------- |:---|:---------|:-----|
+| library(tidyverse) |import numpy as np|
+
 **Future Changes:**
 <br>
 ### Return To Home
