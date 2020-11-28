@@ -59,6 +59,7 @@ Thank you again for taking part in this!
 **Findings:**
 <br>
 | Questions | Feedback |
+<br>
 |---|---|
 | What was your take away from this presentation? | The biggest takeaway was clear to all three of my participants."It is clear that you want to either aid in decreasing the euthanization rate or aid shelters in better taking care of animals."    |
 | Were you able to understand the purposes of the visualizations? |  |
