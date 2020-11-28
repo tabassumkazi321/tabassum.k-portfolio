@@ -39,24 +39,30 @@ This cause can appeal to various groups - as indicated by those I targeted to in
 <br>
 **Who To Interview:**
 I think the best interview subjects need to be random as any good representive survey should. Thus, I hope to have 3 individuals with varying perspectives on domestic animals. I will interview:
-A. Someone who already has a pet from a shelter to guage whether my persuasion and visuals conveys what she is similarly passionate about - or whether I am lacking in something important to the cause. 
+<br>
+A. Someone who already has a pet from a shelter to guage whether my persuasion and visuals conveys what she is similarly passionate about - or whether I am lacking in something important to the cause.
+<br>
 B. Someone who is ambivalent towards pets and animals in general. The cause may be saddening, but they wouldn't necessarily raise an animal. Thus, I can guage whether they are motivated to donate or learn more about the cause.
+<br>
 C. Someone completely uninterested in raising an animal; dislikes pets. 
+<br>
 **Interview Script:**
 Hi, thank you for agreeing to take part in this interview. I hope to gather general feedback to improve the scope of my project. I want you to be critical and honest, there are no wrong answers! 
+<br>
 Questions:
 1. What was your take away from this presentation?
 2. Were you able to understand the purpose of the visualizations? 
 3. Was anything confusing? Would you change any of the dialogue or visualizations? 
+<br>
 Thank you again for taking part in this!
-
+<br>
 **Findings:**
 | Questions 	| Feedback 	|
 |-	|-	|
 | What was your take away from this presentation? 	| The biggest takeaway was clear to all three of my participants."It is clear that you want to either aid in decreasing the euthanization rate or aid shelters in better taking care of animals."    	|
 | Were you able to understand the purposes of the visualizations? 	|  	|
 | Was anything confusing? Would you change any of the dialogue or visualizations? 	|  	|
-
+<br>
 **Future Changes:**
 <br>
 ### Return To Home
