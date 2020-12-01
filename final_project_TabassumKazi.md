@@ -16,8 +16,11 @@ Inspired by the content underscored in our textbook, Good Charts, as well as rec
 I decided to sketch a rough flow of my entire presentation. I will begin with stark statistics about shelters and adoption. In my final presentation, I hope to also provide general information about pets in American households. I will then display the direct correlation with adoption and decrease in euthanasia to appeal to the emotions of the audience. Diving into more detail, I want to highlight that agencies, over time, have taken great control over many of the sheltering issues that have existed in the past. Thus, euthanasia reasons stem from something greater and other than overpopulation. To further prevent euthanasia we must donate to these agencies as well as campaigns that aid in resolving these other issues. 
 <br>
 <br>
-<img src="./images/IMG_6155.jpg" width = "500" height="587">
-
+<img src="./images/opening stat.png">
+<img src="./images/euthanasia vs adopted.png">
+<img src="./images/reason euthainze.png">
+<img src="./images/methodsofeuthanization.png">
+<img src="./images/call to action.png">
 ## The Data
 The [Shelter Animal Outcomes data from the Austin Animal Center](https://www.kaggle.com/c/shelter-animal-outcomes/data) has attributes such as animal breed, intake reason, outcome, and outcome reason from 2013 - 2016; these attributes are valuable in drawing insights on shelter animal trends over time.
 The [ASPCA Shelter Intake Data](https://www.aspca.org/animal-homelessness/shelter-intake-and-surrender/pet-statistics) provides nationwide information on the status quo of U.S. animal shelters as provided by the Animal Humane Society. This dataset will not only complement the Austin Animal Center data, but also describe the conflict at hand by explaining why animals may be rehomed. 
@@ -32,7 +35,7 @@ I will used Shorthand to compile my story together. The interactivity and transi
 
 # Part II 
 ## Wireframe/Storyboarding Using Shorthand 
-
+<img src="./images/IMG_6155.jpg" width = "500" height="587">
 ## User Research/Interviews 
 **Target Audience:**
 This cause can appeal to various groups - as indicated by those I targeted to interview. I hope to appeal to those considering to adopt, those who maybe interested in just aiding the cause, and inspiring those who were unaware of the issue and did not care for animals. 
@@ -63,7 +66,7 @@ Thank you again for taking part in this!
 | --------- |:----|
 | What was your take away from this presentation? | The biggest takeaway was clear to all three of my participants."It is clear that you want to either aid in decreasing the euthanization rate or aid shelters in better taking care of animals."    |
 | Were you able to understand the purposes of the visualizations? |  |
-| Was anything confusing? Would you change any of the dialogue or visualizations? |  |
+| Do you feel differently about the issue now? |  |
 
 **Future Changes:**
 <br>
