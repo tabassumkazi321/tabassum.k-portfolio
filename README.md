@@ -15,3 +15,5 @@ Here's where all of my data visualizations and projects will go!
 [Critique By Design](/Critique By Design.md)
 <br>
 [Final Project Archive](/final_project_TabassumKazi.md)
+<br>
+[Final Presentation](https://carnegiemellon.shorthandstories.com/shelter-animals---euthanasia-in-the-u-s-/index.html)
