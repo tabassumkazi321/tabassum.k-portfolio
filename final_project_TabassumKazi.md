@@ -76,5 +76,8 @@ Thank you again for taking part in this!
 <br> 
 For my final version of the project, I will add additional visualizations that quantify the issue better. I will also organize and unify the design scheme used across all the visualizations. I will provide meaningful text analysis to accompany the visualizations and aid my story telling during the presentation. 
 <br>
+
+# Part III
+[Final Presentation](https://carnegiemellon.shorthandstories.com/shelter-animals---euthanasia-in-the-u-s-/index.html)
 ### Return To Home
 [MAIN](/README.md)
