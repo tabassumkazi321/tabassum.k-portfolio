@@ -78,6 +78,24 @@ For my final version of the project, I will add additional visualizations that q
 <br>
 
 # Part III
-[Final Presentation](https://carnegiemellon.shorthandstories.com/shelter-animals---euthanasia-in-the-u-s-/index.html)
+**Since Part II, Additions & Reflections:**
+<br>
+My final story appeals still appeals to a fairly general audience. I would narrow it down to anyone passionate about animal rights because of the details regarding inhumane euthanization methods. The story can apply to anyone from looking to adopt more ethically, to someone unaware of the shelter system and euthanization statistics looking to learn more. 
+
+Putting together the pieces of data visualizations coherently in a way that flowed was difficult. I wanted to use some of the persuasion techniques that we went over in lecture and in our workbook exercises. I hoped that the flow of my story is not only logical but addresses the different level of  issues involved and encourages people to consider one of the three calls to action I provide. 
+
+Since Part II, I completed all my visualizations and put the story together. From a design perspective, my feedback from the interview rang repeatedly. I attempted to stick to a color scheme and dark colors and images throughout the presentation. Rather than narrowing focus, I needed a better transition between two issues. Finally, I think my flow and transition between discussing euthanization as an issue into acknowledging that euthanization is often inevitable allows for a logical flow into advocating for ethical euthanization at the very least. 
+
+**[Final Presentation](https://carnegiemellon.shorthandstories.com/shelter-animals---euthanasia-in-the-u-s-/index.html)**
+
+**Final Sources Used:**
+<br>
+Sources:
+[1]"Lifesaving statistics", Animal Humane Society, 2019. [Online]. Available: https://www.animalhumanesociety.org/about/lifesaving-statistics. [Accessed: Dec - 07 - 2020].
+[2]"Shelter Animals Count | Explore the Data | Timeline", Shelteranimalscount.org, 2019. [Online]. Available: https://shelteranimalscount.org/data/Explore-the-Data/explore-the-data-timeline. [Accessed: Dec - 07 - 2020] .
+[3]"Pet Statistics", ASPCA. [Online]. Available: https://www.aspca.org/animal-homelessness/shelter-intake-and-surrender/pet-statistics. [Accessed: Dec - 07 - 2020] .
+[4]" Gas Chamber Euthanasia: What you might not know about your local animal shelter ", labroots, 2016. [Online]. Available: https://www.labroots.com/trending/plants-and-animals/3090/gas-chamber-euthanasia. [Acessed: Dec - 8 - 2020].
+
+
 ### Return To Home
 [MAIN](/README.md)
