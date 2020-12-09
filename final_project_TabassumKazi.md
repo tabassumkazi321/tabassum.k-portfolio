@@ -78,7 +78,7 @@ For my final version of the project, I will add additional visualizations that q
 <br>
 
 # Part III
-**Since Part II, Additions & Reflections:**
+## Since Part II, Additions & Reflections
 <br>
 My final story appeals still appeals to a fairly general audience. I would narrow it down to anyone passionate about animal rights because of the details regarding inhumane euthanization methods. The story can apply to anyone from looking to adopt more ethically, to someone unaware of the shelter system and euthanization statistics looking to learn more. 
 
@@ -88,12 +88,15 @@ Since Part II, I completed all my visualizations and put the story together. Fro
 
 **[Final Presentation](https://carnegiemellon.shorthandstories.com/shelter-animals---euthanasia-in-the-u-s-/index.html)**
 
-**Final Sources Used:**
+## Final Data & Information Sources Used
 <br>
 Sources:
 [1]"Lifesaving statistics", Animal Humane Society, 2019. [Online]. Available: https://www.animalhumanesociety.org/about/lifesaving-statistics. [Accessed: Dec - 07 - 2020].
+<br>
 [2]"Shelter Animals Count | Explore the Data | Timeline", Shelteranimalscount.org, 2019. [Online]. Available: https://shelteranimalscount.org/data/Explore-the-Data/explore-the-data-timeline. [Accessed: Dec - 07 - 2020] .
+<br>
 [3]"Pet Statistics", ASPCA. [Online]. Available: https://www.aspca.org/animal-homelessness/shelter-intake-and-surrender/pet-statistics. [Accessed: Dec - 07 - 2020] .
+<br>
 [4]" Gas Chamber Euthanasia: What you might not know about your local animal shelter ", labroots, 2016. [Online]. Available: https://www.labroots.com/trending/plants-and-animals/3090/gas-chamber-euthanasia. [Acessed: Dec - 8 - 2020].
 
 
