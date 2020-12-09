@@ -91,6 +91,7 @@ Since Part II, I completed all my visualizations and put the story together. Fro
 ## Final Data & Information Sources Used
 <br>
 Sources:
+<br>
 [1]"Lifesaving statistics", Animal Humane Society, 2019. [Online]. Available: https://www.animalhumanesociety.org/about/lifesaving-statistics. [Accessed: Dec - 07 - 2020].
 <br>
 [2]"Shelter Animals Count | Explore the Data | Timeline", Shelteranimalscount.org, 2019. [Online]. Available: https://shelteranimalscount.org/data/Explore-the-Data/explore-the-data-timeline. [Accessed: Dec - 07 - 2020] .
